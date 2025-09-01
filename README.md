@@ -5,7 +5,7 @@ A simple yet functional ASP.NET Core MVC project that demonstrates how to **uplo
 ---
 
 ## Table of Contents
-  
+
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Setup Instructions](#setup-instructions)  
@@ -21,8 +21,6 @@ A simple yet functional ASP.NET Core MVC project that demonstrates how to **uplo
 - [License](#license)  
 - [Contact](#contact)
 
----
-
 
 ---
 
@@ -31,15 +29,15 @@ A simple yet functional ASP.NET Core MVC project that demonstrates how to **uplo
 - Upload images via a web form  
 - Save images on the server (or in a database)  
 - View uploaded images in a gallery or list  
-- Clean MVC architecture using ASP.NET Core
+- Clean MVC architecture using ASP.NET Core  
 
 ---
 
 ## Tech Stack
 
 - **Framework**: ASP.NET Core MVC (e.g., .NET 6 or .NET 7)  
-- **Storage**: Local file system (or specify if using a database or cloud storage)  
-- **Frontend**: Razor Pages with HTML & CSS (optionally Bootstrap)
+- **Storage**: Local file system (default) or Database (optional)  
+- **Frontend**: Razor Pages, HTML, CSS, Bootstrap (optional)  
 
 ---
 
@@ -48,13 +46,17 @@ A simple yet functional ASP.NET Core MVC project that demonstrates how to **uplo
 ### Prerequisites
 
 - [.NET SDK (6.0+)](https://dotnet.microsoft.com/download)  
-- A code editor like Visual Studio 2022+ or Visual Studio Code
+- Visual Studio 2022+ or Visual Studio Code  
 
 ### Installation
 
 ```bash
-git clone https://github.com/Alon288/ImageUploadRetrieve.git
+# Clone the repo
+git clone https://github.com/YourUsername/ImageUploadRetrieve.git
 cd ImageUploadRetrieve
 
+# Restore dependencies and build
 dotnet restore
 dotnet build
+
+### Database / Storage Configuration
