@@ -5,8 +5,7 @@ A simple yet functional ASP.NET Core MVC project that demonstrates how to **uplo
 ---
 
 ## Table of Contents
-
-- [Demo](#demo)  
+  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Setup Instructions](#setup-instructions)  
@@ -24,9 +23,6 @@ A simple yet functional ASP.NET Core MVC project that demonstrates how to **uplo
 
 ---
 
-## Demo
-
-*(Optionally insert a GIF or screenshots here to showcase the image upload and retrieval flow.)*
 
 ---
 
