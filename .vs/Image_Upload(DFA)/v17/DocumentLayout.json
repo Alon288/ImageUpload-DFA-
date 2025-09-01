@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Work\\Image_Upload(DFA)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|d:\\.net\\work\\image_upload(dfa)\\image_upload(dfa)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|solutionrelative:image_upload(dfa)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|d:\\.net\\work\\image_upload(dfa)\\image_upload(dfa)\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|solutionrelative:image_upload(dfa)\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|d:\\.net\\work\\image_upload(dfa)\\image_upload(dfa)\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|solutionrelative:image_upload(dfa)\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|d:\\.net\\work\\image_upload(dfa)\\image_upload(dfa)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|solutionrelative:image_upload(dfa)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|d:\\.net\\work\\image_upload(dfa)\\image_upload(dfa)\\models\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|solutionrelative:image_upload(dfa)\\models\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|d:\\.net\\work\\image_upload(dfa)\\image_upload(dfa)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{283C5F39-55E1-479A-B212-55CE231F7CC7}|Image_Upload(DFA)\\Image_Upload(DFA).csproj|solutionrelative:image_upload(dfa)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Image_Upload(DFA)\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Image_Upload(DFA)\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T08:16:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Image_Upload(DFA)\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "Image_Upload(DFA)\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T08:12:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Image_Upload(DFA)\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Image_Upload(DFA)\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:04:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Program.cs",
+              "RelativeDocumentMoniker": "Image_Upload(DFA)\\Program.cs",
+              "ToolTip": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Program.cs",
+              "RelativeToolTip": "Image_Upload(DFA)\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:56:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Models\\ImageDbContext.cs",
+              "RelativeDocumentMoniker": "Image_Upload(DFA)\\Models\\ImageDbContext.cs",
+              "ToolTip": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\Models\\ImageDbContext.cs",
+              "RelativeToolTip": "Image_Upload(DFA)\\Models\\ImageDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:55:17.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\appsettings.json",
+              "RelativeDocumentMoniker": "Image_Upload(DFA)\\appsettings.json",
+              "ToolTip": "D:\\.Net\\Work\\Image_Upload(DFA)\\Image_Upload(DFA)\\appsettings.json",
+              "RelativeToolTip": "Image_Upload(DFA)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T20:48:44.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
